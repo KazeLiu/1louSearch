@@ -2,7 +2,7 @@
 // @name         修改1lou的搜索界面，显示资源类型，强化标签名称
 // @namespace    http://tampermonkey.net/
 // @version      2024-02-26
-// @description  try to take over the world!
+// @description  强化搜索界面，显示资源类型，强化标签名称
 // @author       Kaze
 // @match        https://www.1lou.me/search-*.htm
 // @icon         https://www.1lou.me/upload/avatar/000/20918.png
