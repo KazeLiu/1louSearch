@@ -8,6 +8,7 @@
 // @icon         https://www.1lou.me/upload/avatar/000/20918.png
 // @grant        none
 // @require      https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js
+// @license      MIT
 // ==/UserScript==
 
 (function () {
