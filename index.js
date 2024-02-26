@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         修改1lou的搜索界面，显示资源类型，强化标签名称
+// @name         强化1lou搜索
 // @namespace    http://tampermonkey.net/
 // @version      2024-02-26
 // @description  强化搜索界面，显示资源类型，强化标签名称
