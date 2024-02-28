@@ -20,7 +20,7 @@
     let pageContent = []; // 获取到的JSON数据
     let container = null // 替换内容的div
     let cateList = JSON.parse(cateListStr); // 分类
-    let maxPage = 1; // 最大页数
+    let maxPage = 3; // 最大页数
     let checkList = []; // 前台选中的分类
     function addStyle() {
         var style = $('<style>');
