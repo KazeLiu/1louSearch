@@ -173,7 +173,7 @@
         if (itemList.length > 0) {
             itemList.forEach(item => {
                 const div = $('<div class="kaze-post-item"></div>');
-                const title = $(`<div class="kaze-post-item-title""></div>`).html(`<span class="kaze-post-item-title-cate">${item.forumname}</span> <a href="thread-${item.tid}.htm">${item.subject}</a>`);
+                const title = $(`<div class="kaze-post-item-title""></div>`).html(`<span class="kaze-post-item-title-cate">${item.forumname}</span> <a target="_blank" href="thread-${item.tid}.htm">${item.subject}</a>`);
                 const uploadTime = $('<div class="kaze-post-item-uploder"></div>').html(`<span>${item.username}</span><span>${item.create_date_fmt}</span><span>查看：${item.views}</span>`);
 
                 const tagHtml = $('<div class="kaze-post-item-tag-area"></div>');
